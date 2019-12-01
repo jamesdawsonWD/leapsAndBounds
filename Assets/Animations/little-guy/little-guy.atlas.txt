@@ -1,0 +1,62 @@
+
+little-guy.png
+size: 577,577
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 393, 374
+  size: 201, 182
+  orig: 203, 184
+  offset: 1, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 310
+  size: 389, 265
+  orig: 391, 267
+  offset: 1, 1
+  index: -1
+leftArm3
+  rotate: false
+  xy: 393, 309
+  size: 61, 63
+  orig: 63, 65
+  offset: 1, 1
+  index: -1
+leftEye
+  rotate: true
+  xy: 155, 284
+  size: 24, 22
+  orig: 26, 24
+  offset: 1, 1
+  index: -1
+rightEye
+  rotate: true
+  xy: 155, 284
+  size: 24, 22
+  orig: 26, 24
+  offset: 1, 1
+  index: -1
+leftLeg
+  rotate: true
+  xy: 65, 247
+  size: 61, 43
+  orig: 63, 45
+  offset: 1, 1
+  index: -1
+rightArm
+  rotate: false
+  xy: 2, 245
+  size: 61, 63
+  orig: 63, 65
+  offset: 1, 1
+  index: -1
+rightLeg
+  rotate: true
+  xy: 110, 247
+  size: 61, 43
+  orig: 63, 45
+  offset: 1, 1
+  index: -1
